@@ -1,3 +1,4 @@
 img{
     width: 100px;
+    border-image: 4px solid black;
 }
